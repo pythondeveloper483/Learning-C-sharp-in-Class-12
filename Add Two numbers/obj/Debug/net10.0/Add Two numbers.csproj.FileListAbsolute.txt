@@ -1,0 +1,14 @@
+E:\Code Playground\C#\Simple operations\Add Two numbers\bin\Debug\net10.0\Add Two numbers.exe
+E:\Code Playground\C#\Simple operations\Add Two numbers\bin\Debug\net10.0\Add Two numbers.deps.json
+E:\Code Playground\C#\Simple operations\Add Two numbers\bin\Debug\net10.0\Add Two numbers.runtimeconfig.json
+E:\Code Playground\C#\Simple operations\Add Two numbers\bin\Debug\net10.0\Add Two numbers.dll
+E:\Code Playground\C#\Simple operations\Add Two numbers\bin\Debug\net10.0\Add Two numbers.pdb
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\Add Two numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\Add Two numbers.AssemblyInfoInputs.cache
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\Add Two numbers.AssemblyInfo.cs
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\Add Two numbers.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\Add Two numbers.dll
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\refint\Add Two numbers.dll
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\Add Two numbers.pdb
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\Add Two numbers.genruntimeconfig.cache
+E:\Code Playground\C#\Simple operations\Add Two numbers\obj\Debug\net10.0\ref\Add Two numbers.dll
