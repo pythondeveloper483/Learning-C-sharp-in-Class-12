@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code Playground\\C#\\Simple operations\\Add Two numbers\\Add Two numbers.csproj",
+      "projectUniqueName": "E:\\Code Playground\\Learning C# in Class 12\\Add Two numbers\\Add Two numbers.csproj",
       "projectName": "Add Two numbers",
-      "projectPath": "E:\\Code Playground\\C#\\Simple operations\\Add Two numbers\\Add Two numbers.csproj",
+      "projectPath": "E:\\Code Playground\\Learning C# in Class 12\\Add Two numbers\\Add Two numbers.csproj",
       "packagesPath": "C:\\Users\\shash\\.nuget\\packages\\",
-      "outputPath": "E:\\Code Playground\\C#\\Simple operations\\Add Two numbers\\obj\\",
+      "outputPath": "E:\\Code Playground\\Learning C# in Class 12\\Add Two numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shash\\AppData\\Roaming\\NuGet\\NuGet.Config"
