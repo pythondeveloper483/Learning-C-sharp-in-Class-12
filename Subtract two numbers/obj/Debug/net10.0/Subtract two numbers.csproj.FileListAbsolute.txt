@@ -1,0 +1,14 @@
+E:\Code Playground\C#\Simple operations\Subtract two numbers\bin\Debug\net10.0\Subtract two numbers.exe
+E:\Code Playground\C#\Simple operations\Subtract two numbers\bin\Debug\net10.0\Subtract two numbers.deps.json
+E:\Code Playground\C#\Simple operations\Subtract two numbers\bin\Debug\net10.0\Subtract two numbers.runtimeconfig.json
+E:\Code Playground\C#\Simple operations\Subtract two numbers\bin\Debug\net10.0\Subtract two numbers.dll
+E:\Code Playground\C#\Simple operations\Subtract two numbers\bin\Debug\net10.0\Subtract two numbers.pdb
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\Subtract two numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\Subtract two numbers.AssemblyInfoInputs.cache
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\Subtract two numbers.AssemblyInfo.cs
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\Subtract two numbers.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\Subtract two numbers.dll
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\refint\Subtract two numbers.dll
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\Subtract two numbers.pdb
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\Subtract two numbers.genruntimeconfig.cache
+E:\Code Playground\C#\Simple operations\Subtract two numbers\obj\Debug\net10.0\ref\Subtract two numbers.dll
