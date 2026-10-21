@@ -1,0 +1,14 @@
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\bin\Debug\net10.0\Multiply Two Numbers.exe
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\bin\Debug\net10.0\Multiply Two Numbers.deps.json
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\bin\Debug\net10.0\Multiply Two Numbers.runtimeconfig.json
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\bin\Debug\net10.0\Multiply Two Numbers.dll
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\bin\Debug\net10.0\Multiply Two Numbers.pdb
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\Multiply Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\Multiply Two Numbers.AssemblyInfoInputs.cache
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\Multiply Two Numbers.AssemblyInfo.cs
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\Multiply Two Numbers.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\Multiply Two Numbers.dll
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\refint\Multiply Two Numbers.dll
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\Multiply Two Numbers.pdb
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\Multiply Two Numbers.genruntimeconfig.cache
+E:\Code Playground\C#\Simple operations\Multiply Two Numbers\obj\Debug\net10.0\ref\Multiply Two Numbers.dll
