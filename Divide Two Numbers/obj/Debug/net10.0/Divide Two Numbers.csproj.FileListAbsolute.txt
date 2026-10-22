@@ -1,0 +1,14 @@
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\bin\Debug\net10.0\Divide Two Numbers.exe
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\bin\Debug\net10.0\Divide Two Numbers.deps.json
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\bin\Debug\net10.0\Divide Two Numbers.runtimeconfig.json
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\bin\Debug\net10.0\Divide Two Numbers.dll
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\bin\Debug\net10.0\Divide Two Numbers.pdb
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\Divide Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\Divide Two Numbers.AssemblyInfoInputs.cache
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\Divide Two Numbers.AssemblyInfo.cs
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\Divide Two Numbers.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\Divide Two Numbers.dll
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\refint\Divide Two Numbers.dll
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\Divide Two Numbers.pdb
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\Divide Two Numbers.genruntimeconfig.cache
+E:\Code Playground\C#\Simple operations\Divide Two Numbers\obj\Debug\net10.0\ref\Divide Two Numbers.dll
