@@ -1,0 +1,14 @@
+E:\Code Playground\C#\If Example pg20\bin\Debug\net10.0\If Example pg20.exe
+E:\Code Playground\C#\If Example pg20\bin\Debug\net10.0\If Example pg20.deps.json
+E:\Code Playground\C#\If Example pg20\bin\Debug\net10.0\If Example pg20.runtimeconfig.json
+E:\Code Playground\C#\If Example pg20\bin\Debug\net10.0\If Example pg20.dll
+E:\Code Playground\C#\If Example pg20\bin\Debug\net10.0\If Example pg20.pdb
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\If Example pg20.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\If Example pg20.AssemblyInfoInputs.cache
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\If Example pg20.AssemblyInfo.cs
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\If Example pg20.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\If Example pg20.dll
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\refint\If Example pg20.dll
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\If Example pg20.pdb
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\If Example pg20.genruntimeconfig.cache
+E:\Code Playground\C#\If Example pg20\obj\Debug\net10.0\ref\If Example pg20.dll
