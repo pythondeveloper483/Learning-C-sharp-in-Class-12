@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multiply Two Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd0cc07146405743b16268cb7dbc89837716bae5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multiply Two Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multiply Two Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
