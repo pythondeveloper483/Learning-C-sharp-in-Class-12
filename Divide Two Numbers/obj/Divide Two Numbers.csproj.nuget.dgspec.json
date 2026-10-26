@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code Playground\\C#\\Simple operations\\Divide Two Numbers\\Divide Two Numbers.csproj": {}
+    "E:\\Code Playground\\Learning C# in Class 12\\Divide Two Numbers\\Divide Two Numbers.csproj": {}
   },
   "projects": {
-    "E:\\Code Playground\\C#\\Simple operations\\Divide Two Numbers\\Divide Two Numbers.csproj": {
+    "E:\\Code Playground\\Learning C# in Class 12\\Divide Two Numbers\\Divide Two Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code Playground\\C#\\Simple operations\\Divide Two Numbers\\Divide Two Numbers.csproj",
+        "projectUniqueName": "E:\\Code Playground\\Learning C# in Class 12\\Divide Two Numbers\\Divide Two Numbers.csproj",
         "projectName": "Divide Two Numbers",
-        "projectPath": "E:\\Code Playground\\C#\\Simple operations\\Divide Two Numbers\\Divide Two Numbers.csproj",
+        "projectPath": "E:\\Code Playground\\Learning C# in Class 12\\Divide Two Numbers\\Divide Two Numbers.csproj",
         "packagesPath": "C:\\Users\\shash\\.nuget\\packages\\",
-        "outputPath": "E:\\Code Playground\\C#\\Simple operations\\Divide Two Numbers\\obj\\",
+        "outputPath": "E:\\Code Playground\\Learning C# in Class 12\\Divide Two Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shash\\AppData\\Roaming\\NuGet\\NuGet.Config"
