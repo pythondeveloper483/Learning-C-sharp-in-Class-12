@@ -1,0 +1,14 @@
+E:\Code Playground\C#\If_else Example pg21\bin\Debug\net10.0\If_else Example pg21.exe
+E:\Code Playground\C#\If_else Example pg21\bin\Debug\net10.0\If_else Example pg21.deps.json
+E:\Code Playground\C#\If_else Example pg21\bin\Debug\net10.0\If_else Example pg21.runtimeconfig.json
+E:\Code Playground\C#\If_else Example pg21\bin\Debug\net10.0\If_else Example pg21.dll
+E:\Code Playground\C#\If_else Example pg21\bin\Debug\net10.0\If_else Example pg21.pdb
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\If_else Example pg21.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\If_else Example pg21.AssemblyInfoInputs.cache
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\If_else Example pg21.AssemblyInfo.cs
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\If_else Example pg21.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\If_else Example pg21.dll
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\refint\If_else Example pg21.dll
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\If_else Example pg21.pdb
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\If_else Example pg21.genruntimeconfig.cache
+E:\Code Playground\C#\If_else Example pg21\obj\Debug\net10.0\ref\If_else Example pg21.dll
