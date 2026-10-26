@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "If_else Example pg21/1.0.0": {
+        "runtime": {
+          "If_else Example pg21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If_else Example pg21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
