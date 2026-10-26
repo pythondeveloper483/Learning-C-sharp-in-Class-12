@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code Playground\\C#\\Simple operations\\Subtract two numbers\\Subtract two numbers.csproj",
+      "projectUniqueName": "E:\\Code Playground\\Learning C# in Class 12\\Subtract two numbers\\Subtract two numbers.csproj",
       "projectName": "Subtract two numbers",
-      "projectPath": "E:\\Code Playground\\C#\\Simple operations\\Subtract two numbers\\Subtract two numbers.csproj",
+      "projectPath": "E:\\Code Playground\\Learning C# in Class 12\\Subtract two numbers\\Subtract two numbers.csproj",
       "packagesPath": "C:\\Users\\shash\\.nuget\\packages\\",
-      "outputPath": "E:\\Code Playground\\C#\\Simple operations\\Subtract two numbers\\obj\\",
+      "outputPath": "E:\\Code Playground\\Learning C# in Class 12\\Subtract two numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shash\\AppData\\Roaming\\NuGet\\NuGet.Config"
