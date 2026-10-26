@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code Playground\\C#\\If Example pg20\\If Example pg20.csproj": {}
+    "E:\\Code Playground\\Learning C# in Class 12\\If Statement\\If Example pg20.csproj": {}
   },
   "projects": {
-    "E:\\Code Playground\\C#\\If Example pg20\\If Example pg20.csproj": {
+    "E:\\Code Playground\\Learning C# in Class 12\\If Statement\\If Example pg20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code Playground\\C#\\If Example pg20\\If Example pg20.csproj",
+        "projectUniqueName": "E:\\Code Playground\\Learning C# in Class 12\\If Statement\\If Example pg20.csproj",
         "projectName": "If Example pg20",
-        "projectPath": "E:\\Code Playground\\C#\\If Example pg20\\If Example pg20.csproj",
+        "projectPath": "E:\\Code Playground\\Learning C# in Class 12\\If Statement\\If Example pg20.csproj",
         "packagesPath": "C:\\Users\\shash\\.nuget\\packages\\",
-        "outputPath": "E:\\Code Playground\\C#\\If Example pg20\\obj\\",
+        "outputPath": "E:\\Code Playground\\Learning C# in Class 12\\If Statement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shash\\AppData\\Roaming\\NuGet\\NuGet.Config"
