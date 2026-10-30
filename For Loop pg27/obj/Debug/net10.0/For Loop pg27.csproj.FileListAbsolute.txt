@@ -1,0 +1,14 @@
+E:\Code Playground\C#\For Loop pg27\bin\Debug\net10.0\For Loop pg27.exe
+E:\Code Playground\C#\For Loop pg27\bin\Debug\net10.0\For Loop pg27.deps.json
+E:\Code Playground\C#\For Loop pg27\bin\Debug\net10.0\For Loop pg27.runtimeconfig.json
+E:\Code Playground\C#\For Loop pg27\bin\Debug\net10.0\For Loop pg27.dll
+E:\Code Playground\C#\For Loop pg27\bin\Debug\net10.0\For Loop pg27.pdb
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\For Loop pg27.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\For Loop pg27.AssemblyInfoInputs.cache
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\For Loop pg27.AssemblyInfo.cs
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\For Loop pg27.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\For Loop pg27.dll
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\refint\For Loop pg27.dll
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\For Loop pg27.pdb
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\For Loop pg27.genruntimeconfig.cache
+E:\Code Playground\C#\For Loop pg27\obj\Debug\net10.0\ref\For Loop pg27.dll
