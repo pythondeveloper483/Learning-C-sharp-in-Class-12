@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "While Loop pg31/1.0.0": {
+        "runtime": {
+          "While Loop pg31.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "While Loop pg31/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
