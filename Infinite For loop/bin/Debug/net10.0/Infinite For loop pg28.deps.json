@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Infinite For loop pg28/1.0.0": {
+        "runtime": {
+          "Infinite For loop pg28.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infinite For loop pg28/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
