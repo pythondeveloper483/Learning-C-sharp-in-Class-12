@@ -1,0 +1,14 @@
+E:\Code Playground\C#\Infinite For loop pg28\bin\Debug\net10.0\Infinite For loop pg28.exe
+E:\Code Playground\C#\Infinite For loop pg28\bin\Debug\net10.0\Infinite For loop pg28.deps.json
+E:\Code Playground\C#\Infinite For loop pg28\bin\Debug\net10.0\Infinite For loop pg28.runtimeconfig.json
+E:\Code Playground\C#\Infinite For loop pg28\bin\Debug\net10.0\Infinite For loop pg28.dll
+E:\Code Playground\C#\Infinite For loop pg28\bin\Debug\net10.0\Infinite For loop pg28.pdb
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\Infinite For loop pg28.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\Infinite For loop pg28.AssemblyInfoInputs.cache
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\Infinite For loop pg28.AssemblyInfo.cs
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\Infinite For loop pg28.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\Infinite For loop pg28.dll
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\refint\Infinite For loop pg28.dll
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\Infinite For loop pg28.pdb
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\Infinite For loop pg28.genruntimeconfig.cache
+E:\Code Playground\C#\Infinite For loop pg28\obj\Debug\net10.0\ref\Infinite For loop pg28.dll
