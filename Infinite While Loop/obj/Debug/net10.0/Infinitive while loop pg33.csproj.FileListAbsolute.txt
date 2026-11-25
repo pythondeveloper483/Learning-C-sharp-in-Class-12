@@ -1,0 +1,14 @@
+E:\Code Playground\C#\Infinitive while loop pg33\bin\Debug\net10.0\Infinitive while loop pg33.exe
+E:\Code Playground\C#\Infinitive while loop pg33\bin\Debug\net10.0\Infinitive while loop pg33.deps.json
+E:\Code Playground\C#\Infinitive while loop pg33\bin\Debug\net10.0\Infinitive while loop pg33.runtimeconfig.json
+E:\Code Playground\C#\Infinitive while loop pg33\bin\Debug\net10.0\Infinitive while loop pg33.dll
+E:\Code Playground\C#\Infinitive while loop pg33\bin\Debug\net10.0\Infinitive while loop pg33.pdb
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\Infinitive while loop pg33.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\Infinitive while loop pg33.AssemblyInfoInputs.cache
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\Infinitive while loop pg33.AssemblyInfo.cs
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\Infinitive while loop pg33.csproj.CoreCompileInputs.cache
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\Infinitive while loop pg33.dll
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\refint\Infinitive while loop pg33.dll
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\Infinitive while loop pg33.pdb
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\Infinitive while loop pg33.genruntimeconfig.cache
+E:\Code Playground\C#\Infinitive while loop pg33\obj\Debug\net10.0\ref\Infinitive while loop pg33.dll
